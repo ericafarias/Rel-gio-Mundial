@@ -20,8 +20,7 @@ O objetivo do **Relógio Mundial** é oferecer uma ferramenta prática para cons
 Para rodar a aplicação localmente, siga as etapas abaixo:
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/ericafarias/worldtime.git
+   https://github.com/ericafarias/Rel-gio-Mundial.git
 2.Navegue até o diretório do projeto:
    cd Relo-gio-Mundial
 3.Instale as dependências:
